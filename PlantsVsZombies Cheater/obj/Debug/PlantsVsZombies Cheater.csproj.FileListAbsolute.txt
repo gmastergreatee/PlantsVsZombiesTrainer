@@ -1,0 +1,14 @@
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\bin\Debug\PlantsVsZombies Cheater.exe.config
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\bin\Debug\PlantsVsZombies Cheater.exe
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\bin\Debug\PlantsVsZombies Cheater.pdb
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\PlantsVsZombies Cheater.csprojResolveAssemblyReference.cache
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\MainWindow.g.cs
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\App.g.cs
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\PlantsVsZombies Cheater_MarkupCompile.cache
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\PlantsVsZombies Cheater_MarkupCompile.lref
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\MainWindow.baml
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\PlantsVsZombies Cheater.g.resources
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\PlantsVsZombies_Cheater.Properties.Resources.resources
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\PlantsVsZombies Cheater.csproj.GenerateResource.Cache
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\PlantsVsZombies Cheater.exe
+c:\users\rajarshi vaidya\documents\visual studio 2015\Projects\PlantsVsZombies Cheater\PlantsVsZombies Cheater\obj\Debug\PlantsVsZombies Cheater.pdb
