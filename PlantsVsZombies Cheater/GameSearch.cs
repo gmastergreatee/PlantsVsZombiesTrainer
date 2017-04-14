@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading;
 using System.Windows.Threading;
@@ -92,18 +93,18 @@ namespace RajarshiSoftwares
                 angel.ReadProcess = myProcesses[0];
                 angel.Open();
                 isGameRunning = true;
-                currentDispatcher.Invoke(() => { gameFound?.Invoke(angel); });
+                currentDispatcher.Invoke(new Action(() => { gameFound?.Invoke(angel); }));
             }
             else if (isGameRunning && myProcesses.Count() == 0)
             {
                 isGameRunning = false;
-                currentDispatcher.Invoke(() => { gameLost?.Invoke(GameName); });
+                currentDispatcher.Invoke(new Action(() => { gameLost?.Invoke(GameName); }));
             }
             else if (myProcesses.Count() > 1)
             {
                 if (isGameRunning)
                     isGameRunning = false;
-                currentDispatcher.Invoke(() => { error?.Invoke("Multiple instances found for the application."); });
+                currentDispatcher.Invoke(new Action(() => { error?.Invoke("Multiple instances found for the application."); }));
             }
         }
     }
